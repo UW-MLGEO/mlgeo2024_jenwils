@@ -7,8 +7,8 @@ Jen Wilson's repo for MLGEO 2024 Fall 2024
     ```
     git clone https://github.com/UW-MLGEO/mlgeo2024_jenwils.git
     ```
-
 2. Set up your environment
+   
     Change to the new directory
     ```
     cd mlgeo2024_jenwils
@@ -21,3 +21,6 @@ Jen Wilson's repo for MLGEO 2024 Fall 2024
     ```
     conda activate mlgeo
     ```
+
+## Licensing
+This open-source project is available licensed under the [MIT license](https://opensource.org/license/MIT).
