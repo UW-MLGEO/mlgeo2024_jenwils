@@ -18,4 +18,5 @@ Jen Wilson's repo for MLGEO 2024 Fall 2024
     conda env create -f environment.yml -n mlgeo
     ```
     Activate your new environment
-    ```conda activate mlgeo```
+    ```
+    conda activate mlgeo```
