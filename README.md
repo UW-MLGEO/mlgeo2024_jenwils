@@ -19,4 +19,5 @@ Jen Wilson's repo for MLGEO 2024 Fall 2024
     ```
     Activate your new environment
     ```
-    conda activate mlgeo```
+    conda activate mlgeo
+    ```
