@@ -13,11 +13,9 @@ Jen Wilson's repo for MLGEO 2024 Fall 2024
     ```
     cd mlgeo2024_jenwils
     ```
-    Install the environment from the YAML file
+    Setup your environment from the YAML file
     ```
-    conda env -f environment.yml -n mlgeo
+    conda env create -f environment.yml -n mlgeo
     ```
     Activate your new environment
-    ```
-    conda activate mlgeo
-    ```
+    ```conda activate mlgeo```
