@@ -23,7 +23,16 @@ Jen Wilson's repo for MLGEO 2024 Fall 2024
     ```
 
 The best earth science topics according to me:
-![Iceland](https://photos.app.goo.gl/nDCqHNypytEkRK9y7) 
+
+- Iceland. Yes, the entire country.
+<figure>
+    <img src="images/iceland.jpg" alt="Iceland" width="300" style="vertical-align: top;"/>
+    <figcaption><small>Holding up North America at Thingvellir National Park (April 2024)</small></figcaption>
+</figure>
+
+- Volcanic hazards
+
+- Water resources management
 
 ## Licensing
-This open-source project is available licensed under the [MIT license](https://opensource.org/license/MIT).
+This open-source project is licensed under the [MIT license](https://opensource.org/license/MIT).
