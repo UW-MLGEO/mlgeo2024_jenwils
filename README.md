@@ -22,5 +22,8 @@ Jen Wilson's repo for MLGEO 2024 Fall 2024
     conda activate mlgeo
     ```
 
+The best earth science topics according to me:
+![Iceland](https://photos.app.goo.gl/nDCqHNypytEkRK9y7) 
+
 ## Licensing
 This open-source project is available licensed under the [MIT license](https://opensource.org/license/MIT).
