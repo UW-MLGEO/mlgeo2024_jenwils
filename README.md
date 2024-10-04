@@ -27,7 +27,7 @@ The best earth science topics according to me:
 - Iceland. Yes, the entire country.
 <figure>
     <img src="images/iceland.jpg" alt="Iceland" width="300" style="vertical-align: top;"/>
-    <figcaption><small>Holding up North America at Thingvellir National Park (April 2024)</small></figcaption>
+    <figcaption style="font-size: smaller;">Holding up North America at Thingvellir National Park (April 2024)</figcaption>
 </figure>
 
 - Volcanic hazards
